@@ -144,4 +144,4 @@ You can now add this host to your Zabbix frontend using SNMPv3 and start monitor
 
 ---
 
-**Author:** Mohammad Talebi  
+> Created by [Mohammad Talebi](https://linkedin.com/in/mtlbd) – DevOps Engineer 👨‍💻
